@@ -1,0 +1,61 @@
+body{
+    background-color: #6c757d;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+   
+    overflow-x: hidden;
+}
+
+
+.banner-img{
+    background-color:      #dc3545;
+    background-position: auto;
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+
+}
+
+.banner-btn{
+    border: 3px solid #0e1133;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 10px 100px;
+    margin: 5px;
+}
+
+.titel{
+    color: black;
+    font-size: 60px;
+    line-height: 70px;
+    margin-top: 10px;
+    margin-bottom: 22px;
+    font-weight: 900;
+}
+.btn-ios{
+background-color: #0e1133;
+color: white;
+}
+.btn-ios:hover{
+    background-color: white;
+    color: #0e1133;
+}
+.btn-android{
+color: #0e1133;
+}
+.btn-android:hover{
+background-color: #0e1133;
+color: white;
+}
+
+h6{
+    color: #007bff;
+}
+
+.titel2{
+    
+    font-weight: 400;
+   
+}
